@@ -6,13 +6,16 @@ This website is made using HTML, CSS and JavaScript.
 <br>
 You can click on browse to select the Image from your device.
 <br>
+<br>
 <img width="951" alt="2021-04-25 (4)" src="https://user-images.githubusercontent.com/73280986/115990102-27dcbd80-a5df-11eb-8702-154d540ca294.png">
 <br>
 You can also drag the file it will update the area with "Release to Upload File"until to drop it.
 <br>
+<br>
 <img width="948" alt="2021-04-25 (6)" src="https://user-images.githubusercontent.com/73280986/115990103-290dea80-a5df-11eb-9a04-ae428cce95ab.png">
 <br>
 Here you image is dropped.
+<br>
 <br>
 <img width="946" alt="2021-04-25 (7)" src="https://user-images.githubusercontent.com/73280986/115990104-29a68100-a5df-11eb-81d3-c05cf3c857a9.png">
 
